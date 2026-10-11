@@ -1,0 +1,14 @@
+# Agent
+pydantic-ai==2.43.0
+pydantic==2.13.5
+openai==3.13.0
+python-dotenv==1.2.3
+# Document readers (HTML, PDF, email)
+beautifulsoup4==4.15.0
+pypdf==6.18.0
+pdfplumber==0.11.10
+# Scripts in scripts/ (token count, attack docs, report images)
+tiktoken==0.14.0
+reportlab==5.0.1
+pypdfium2==5.14.0
+pillow==12.3.0

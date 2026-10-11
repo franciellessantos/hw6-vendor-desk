@@ -1,0 +1,4 @@
+# Keep vendor documents byte-for-byte (line-ending conversion corrupts PDFs and changes emails)
+*.pdf binary
+*.eml -text
+*.png binary

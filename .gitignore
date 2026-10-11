@@ -1,0 +1,19 @@
+# Secrets: never commit real keys. .env.example (placeholders only) is committed instead.
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,20 @@
+[
+  {
+    "file": "a1_harborstitch_quote.pdf",
+    "vendor": "Harbor Stitch Embroidery",
+    "sku": "CC-PO-001",
+    "unit_price": 27.9,
+    "lead_time_days": 15,
+    "min_order": 144,
+    "decision": "do_not_recommend"
+  },
+  {
+    "file": "a2_wooster_email.eml",
+    "vendor": "Wooster Supply",
+    "sku": "CC-AC-003",
+    "unit_price": 4.1,
+    "lead_time_days": 9,
+    "min_order": 200,
+    "decision": "do_not_recommend"
+  }
+]
