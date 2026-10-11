@@ -201,3 +201,5 @@ Prompts written by Fran, recorded verbatim and grouped by problem.
 > make the repo with this strucutre
 >
 > put a short READ.md explaining how run the agent
+
+> [answered: keep helper scripts in scripts/ ; repo name hw6-vendor-desk]
